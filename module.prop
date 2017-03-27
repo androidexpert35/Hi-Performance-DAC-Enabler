@@ -1,7 +1,7 @@
 id=Hi-performance_DAC_enabler
 name=Hi-Performance DAC Enabler
-version=v1
-versionCode=1
+version=v1.1
+versionCode=1.1
 author=androidexpert35
 description=Enable High Performance mode on Qualcomm's WCD9xx DAC
 template=1
